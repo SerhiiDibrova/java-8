@@ -1,4 +1,4 @@
-package com.winterbe.java8.samples.time;
+package com.winterbe.java8.samples;
 
 import java.time.DayOfWeek;
 import java.time.LocalDate;

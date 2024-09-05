@@ -1,4 +1,4 @@
-package com.winterbe.java8.samples.misc;
+package com.winterbe.java8.samples;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;

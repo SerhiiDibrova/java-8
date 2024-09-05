@@ -1,4 +1,4 @@
-package com.winterbe.java8.samples.switch;
+package com.winterbe.java8.samples;
 
 import java.util.EnumSet;
 

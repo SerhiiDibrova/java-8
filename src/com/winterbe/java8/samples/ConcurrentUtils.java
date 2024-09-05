@@ -1,4 +1,4 @@
-package com.winterbe.java8.samples.concurrent;
+package com.winterbe.java8.samples;
 
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.TimeUnit;
